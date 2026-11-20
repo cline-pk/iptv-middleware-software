@@ -47,6 +47,6 @@ Look for:
 | APIs | Varies | Varies | Admin, Reseller, Player, ActiveCode |
 | Load balancers | Extra | Vendor managed | Unlimited on one license |
 
-Install and full guide: [xtream-masters.com/iptv_middleware.php](https://xtream-masters.com/iptv_middleware.php)
+Install and full details: [IPTV middleware software](https://xtream-masters.com/iptv_middleware_software.php)
 
 [Back to README](../README.md) · [What is IPTV middleware](what-is-iptv-middleware.md)
