@@ -2,13 +2,13 @@
 
 **Self-hosted IPTV and OTT middleware software for operators. One-command install on Ubuntu 18.04 to 26.04.**
 
-[![Website](https://img.shields.io/badge/guide-xtream--masters.com-f05a35)](https://xtream-masters.com/iptv_middleware.php)
+[![Website](https://img.shields.io/badge/website-xtream--masters.com-f05a35)](https://xtream-masters.com/iptv_middleware_software.php)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-18.04%20to%2026.04-E95420?logo=ubuntu&logoColor=white)](#requirements)
 [![Install](https://img.shields.io/badge/install-1%20command-2ea44f)](#quick-start-install-iptv-middleware-in-one-command)
 
 **IPTV middleware software** is the layer between your video streams and your subscribers. It signs users in, decides what each one may watch, sends the channel list and the TV guide (EPG), and connects billing. Without middleware you have streams, but no IPTV service.
 
-[Xtream-Masters](https://xtream-masters.com/iptv_middleware.php) is self-hosted IPTV middleware and OTT middleware: one secure Go binary that runs on your own Ubuntu servers and also manages streams, load balancers and resellers.
+[Xtream-Masters](https://xtream-masters.com/iptv_middleware_software.php) is self-hosted IPTV middleware and OTT middleware: one secure Go binary that runs on your own Ubuntu servers and also manages streams, load balancers and resellers.
 
 ## Contents
 
@@ -100,7 +100,7 @@ Xtream-Masters covers all three: it is an [IPTV panel](https://xtream-masters.co
 
 - Ubuntu 18.04, 20.04, 22.04, 24.04 or 26.04 (24.04 recommended), clean install
 - Root access
-- A license from [xtream-masters.com](https://xtream-masters.com/iptv_middleware.php)
+- A license from [xtream-masters.com](https://xtream-masters.com/iptv_middleware_software.php)
 
 ## Pricing
 
@@ -130,7 +130,8 @@ Migration is supported. See the [IPTV panel migration guide](https://github.com/
 
 - [What is IPTV middleware](docs/what-is-iptv-middleware.md)
 - [How to choose IPTV middleware software](docs/how-to-choose-iptv-middleware-software.md)
-- [IPTV middleware software guide (website)](https://xtream-masters.com/iptv_middleware.php)
+- [IPTV middleware software (website)](https://xtream-masters.com/iptv_middleware_software.php)
+- [What is IPTV middleware (website guide)](https://xtream-masters.com/iptv_middleware.php)
 - [IPTV server software](https://xtream-masters.com/iptv_server_software.php)
 - [Player API documentation](https://xtream-masters.com/guide/xtream_codes_api_player_api_documentation.php)
 
