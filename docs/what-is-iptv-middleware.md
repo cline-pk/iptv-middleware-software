@@ -31,7 +31,7 @@ flowchart LR
 
 - **Enterprise suites** for telecoms and hotels: priced on request, often per subscriber, weeks to months to deploy.
 - **Cloud (SaaS) middleware**: runs on the vendor's servers, monthly fee, start in days.
-- **Self-hosted panels** such as [Xtream-Masters](https://xtream-masters.com/iptv_middleware.php): run on your own Ubuntu servers, flat license, also manage streams and load balancers, install in minutes.
+- **Self-hosted panels** such as [Xtream-Masters](https://xtream-masters.com/iptv_middleware_software.php): run on your own Ubuntu servers, flat license, also manage streams and load balancers, install in minutes.
 
 ## OTT middleware
 
@@ -44,5 +44,7 @@ curl -fsSL -o xm-install https://iptv-admin.xtream-masters.com/cms_install/xm-in
 ```
 
 Ubuntu 18.04 to 26.04 (24.04 recommended), run as root. About 2 to 5 minutes.
+
+Full guide on the website: [What is IPTV middleware](https://xtream-masters.com/iptv_middleware.php)
 
 Next: [How to choose IPTV middleware software](how-to-choose-iptv-middleware-software.md) · [Back to README](../README.md)
